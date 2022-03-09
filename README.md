@@ -1,1 +1,67 @@
 # MTA-Stuff
+
+A BUNCH OF STUFF THAT ARE USEFUL GO CHECK THAT OUT! LOT OF UTILS. CONNECTION HELPER. GTA SA LIKE MENU. I DUNNO. BUT THAT LOOKS  PERFECT
+https://github.com/AlexRazor1337/awesome-mta-sa#resources
+
+ModLoader (YOU CAN TEST ANY MODS PLEASE DO IT)
+https://github.com/Deltanic/ModLoader
+
+Custom Chatbox using Tabs (beautiful)
+https://forum.mtasa.com/topic/68540-rel-custom-chatbox-using-tabs/
+
+Level System (level_system)
+https://community.multitheftauto.com/index.php?p=resources&s=details&id=8663
+
+Player Profile System
+https://forum.mtasa.com/topic/29008-rel-player-profile-system/#comment-296383
+
+Trade system (Not Sure)
+https://forum.mtasa.com/topic/111886-trade/#comment-931586
+
+mta-police-radio
+https://github.com/draobrehtom/mta-police-radio
+
+Delete all empty Vehicles on server
+https://forum.mtasa.com/topic/91280-rel-delete-all-empty-vehicles-on-server-or-those-at-1-location/#comment-825920
+
+Darhal's Gate System
+https://forum.mtasa.com/topic/78138-rel-darhals-gate-system/#comment-715003
+
+Firewall System (Non-Allowed Players)
+https://forum.mtasa.com/topic/46832-rel-firewall-system-non-allowed-players/#comment-454258
+
+Extra Health: Add more than normal health!
+https://forum.mtasa.com/topic/26275-rel-extra-health-add-more-than-normal-health/#comment-274483
+
+Teleport Editor *Map Editor only*
+https://forum.mtasa.com/topic/27109-rel-teleporteditor-create-teleports-in-mta-map-editor/#comment-280842
+
+Animations Menu
+https://forum.mtasa.com/topic/22228-rel-animations-menu/#comment-244247
+
+Home-System
+https://forum.mtasa.com/topic/22984-rel-home-system/#comment-249924
+
+Ammunition shops
+https://forum.mtasa.com/topic/84765-rel-ammunition-shops/#comment-775050
+
+Health regeneration (player/vehicle)
+https://forum.mtasa.com/topic/112940-rel-health-regeneration-playervehicle/#comment-936937
+
+NoClip 
+https://forum.mtasa.com/topic/133795-rel-noclip/#comment-1005114
+
+GTWalrus police, wanted level and jail system *Each Scripts are listed in (Ressources included)*
+https://forum.mtasa.com/topic/73835-rel-gtwalrus-police-wanted-level-and-jail-system/#comment-679705
+
+Stock Market | Buy & Sell Stocks!
+https://forum.mtasa.com/topic/100175-rel-stock-market-buy-sell-stocks/#comment-882003
+
+Stardew/DST Advanced Fishing Job w/ Rarity, Weight, Treasure & Inventory [Forseti]
+https://forum.mtasa.com/topic/127577-rel-stardewdst-advanced-fishing-job-w-rarity-weight-treasure-inventory-forseti/
+
+simple-notifications *USEFUL!!!*
+https://forum.mtasa.com/topic/128221-rel-simple-notifications/
+
+pDownloader (better looking progress bar)
+https://forum.mtasa.com/topic/125222-rel-pdownloader-better-looking-progress-bar/
