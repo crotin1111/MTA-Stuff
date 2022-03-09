@@ -1,5 +1,8 @@
 # MTA-Stuff
 
+Click on MTA-STUFF.TXT for a better list view. 
+--------------------------------------------------------
+
 A BUNCH OF STUFF THAT ARE USEFUL GO CHECK THAT OUT! LOT OF UTILS. CONNECTION HELPER. GTA SA LIKE MENU. I DUNNO. BUT THAT LOOKS  PERFECT
 https://github.com/AlexRazor1337/awesome-mta-sa#resources
 
