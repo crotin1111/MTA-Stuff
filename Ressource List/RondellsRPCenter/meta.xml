@@ -1,0 +1,5 @@
+<meta>
+	<info author="Rondell" type="script" description="Panel"/>
+
+	<script src="c_panel.lua" type="client"/>
+</meta>
